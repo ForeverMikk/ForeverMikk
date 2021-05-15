@@ -1,4 +1,4 @@
-### Hi, I'm Michael Molina - Web Developer [website]
+### Hi, I'm Michael Molina - Web Developer [michaelmolina.me][website]
 
 ## I'm a Developer, Geek and Gamer!
 
