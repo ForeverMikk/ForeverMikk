@@ -1,5 +1,7 @@
 ### Hi, I'm Michael Molina - Web Developer [michaelmolina.me][website]
 
+![Twitter Follow](https://img.shields.io/twitter/follow/ForeverMikk?color=%231DA1F2&label=%40Forevermikk&logo=twitter&style=for-the-badge)
+
 ## I'm a Developer, Geek and Gamer!
 
 - 👨‍💻 I'm currently learning Every Web Technology
@@ -13,9 +15,9 @@
 [<img align="left" alt="Michael Molina" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" /> 
 <br />
+
+[<img align='left' alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" />][]
 
 [website]: https://michaelmolina.me
 [twitter]: https://twitter.com/ForeverMikk/
