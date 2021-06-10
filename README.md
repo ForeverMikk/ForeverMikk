@@ -19,6 +19,8 @@
 
 [<img align='left' alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" />][]
 
+<!--START_SECTION:activity-->
+
 [website]: https://michaelmolina.me
 [twitter]: https://twitter.com/ForeverMikk/
 [linkedin]: https://www.linkedin.com/in/michael-molina-2582a9100
