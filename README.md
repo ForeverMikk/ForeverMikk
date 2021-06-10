@@ -4,7 +4,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ForeverMikk?color=%231DA1F2&label=%40Forevermikk&logo=twitter&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/ForeverMikk?color=%230A66C2&label=%40Forevermikk&logo=linkedin&style=flat-square) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrgIXp3Xv7M7FYJp1oJy6fg?color=%23FF0000&label=Michael%20Molina&logo=Youtube&logoColor=%23FF0000&style=flat-square)
 
-- 👨‍💻 I'm currently learning Every Web Technology
+- 👨‍💻 I'm currently working with React.JS
 - 📆 2020 Goals: Get a better Job and Contribute with some Open Source Projects
 - 🎥 A movies lover all the time
 
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-[<img align='left' alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" />][]
+<img align='left' alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" />
 
 <!--START_SECTION:activity-->
 
