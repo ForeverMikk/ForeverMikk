@@ -1,6 +1,6 @@
 ### Hi, I'm Michael Molina - Web Developer [michaelmolina.me][website]
 
-(https://pbs.twimg.com/profile_banners/1159215278334578690/1624738118/600x200)
+![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1159215278334578690/1624738118/600x200)
 
 ## I'm a Developer, Geek and Gamer!
 
