@@ -21,12 +21,6 @@
 
 <img align='left' alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ForeverMikk&show_icons=true&hide_border=true" />
 
-<br />
-## My Activity :
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ForeverMikk/portfolio/pull/2) in [ForeverMikk/portfolio](https://github.com/ForeverMikk/portfolio)
-<!--END_SECTION:activity-->
-
 
 [website]: https://michaelmolina.me
 [twitter]: https://twitter.com/ForeverMikk/
