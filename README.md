@@ -1,5 +1,7 @@
 ### Hi, I'm Michael Molina - Web Developer [michaelmolina.me][website]
 
+(https://pbs.twimg.com/profile_banners/1159215278334578690/1624738118/600x200)
+
 ## I'm a Developer, Geek and Gamer!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ForeverMikk?color=%231DA1F2&label=%40Forevermikk&logo=twitter&style=flat-square) ![Twitter Follow](https://img.shields.io/twitter/follow/ForeverMikk?color=%230A66C2&label=%40Forevermikk&logo=linkedin&style=flat-square) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCrgIXp3Xv7M7FYJp1oJy6fg?color=%23FF0000&label=Michael%20Molina&logo=Youtube&logoColor=%23FF0000&style=flat-square)
